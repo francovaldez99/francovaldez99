@@ -3,4 +3,4 @@
 He finalizado con éxito un Bootcamp en desarrollo web, y estoy buscando nuevas oportunidades para aplicar mis habilidades en JavaScript, Node.js, React, Redux, Express, SQL, Postgres y Sequelize.
 
 Siempre estoy buscando nuevos desafíos y proyectos interesantes para trabajar. Si estás interesado en colaborar conmigo, ¡no dudes en ponerte en contacto! 📧
--->
+
