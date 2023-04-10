@@ -1,8 +1,8 @@
 
 <h1 align="center">¡Hola! 👋, Soy Franco Valdez</h1>
-<h3 align="center">un apasionado de la programación con experiencia en la administración de tiendas online.</h3>
+<h3 align="center">Programador Full Stack | Javascript | Nodejs | React | Redux | Express | SQL | Postgres | Sequelize 🚀</h3>
 
-- 🔭 He finalizado con éxito el Bootcamp de henry en desarrollo web , como proyecto final realizamos [Fusionajob](https://github.com/felipecalderon/PF-SoyHenry)
+- 🔭 un apasionado de la programación con experiencia en la administración de tiendas online.He finalizado con éxito el Bootcamp de henry en desarrollo web , como proyecto final realizamos [Fusionajob](https://github.com/felipecalderon/PF-SoyHenry)
 
 - 🌱 actualmente estoy aprendiendo **MoongoDB**
 
