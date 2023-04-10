@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola! 👋, Soy Franco Valdez</h1>
-<h3 align="center">un apasionado de la programación con experiencia en la administración de tiendas online.</h3>
+
 <h1 align="center">¡Hola! 👋, Soy Franco Valdez</h1>
 <h3 align="center">un apasionado de la programación con experiencia en la administración de tiendas online.</h3>
 
