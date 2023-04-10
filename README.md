@@ -9,7 +9,8 @@
 
 - 📫 Contactame en **francomartinvaldez99@gmail.com**
 
-- 📄 Mis experiencias [los últimos años, he trabajado en la administración de tiendas online, lo que me ha proporcionado habilidades en gestión de proyectos y atención al cliente. 🛍️ Ahora, estoy ansioso por aplicar mis conocimientos en programación y mis habilidades de resolución de problemas en un nuevo desafío.](los últimos años, he trabajado en la administración de tiendas online, lo que me ha proporcionado habilidades en gestión de proyectos y atención al cliente. 🛍️ Ahora, estoy ansioso por aplicar mis conocimientos en programación y mis habilidades de resolución de problemas en un nuevo desafío.)
+- 📄 Mis experiencias 
+- <p>los últimos años, he trabajado en la administración de tiendas online, lo que me ha proporcionado habilidades en gestión de proyectos y atención al cliente. 🛍️ Ahora, estoy ansioso por aplicar mis conocimientos en programación y mis habilidades de resolución de problemas en un nuevo desafío.](los últimos años, he trabajado en la administración de tiendas online, lo que me ha proporcionado habilidades en gestión de proyectos y atención al cliente. 🛍️ Ahora, estoy ansioso por aplicar mis conocimientos en programación y mis habilidades de resolución de problemas en un nuevo desafío.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
