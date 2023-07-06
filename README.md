@@ -4,7 +4,7 @@
 
 - 🔭 un apasionado de la programación con experiencia en la administración de tiendas online.He finalizado con éxito el Bootcamp de henry en desarrollo web , como proyecto final realizamos [Fusionajob](https://github.com/felipecalderon/PF-SoyHenry)
 
-- 🌱 actualmente estoy aprendiendo **MoongoDB**
+
 
 - 📫 Contactame en **francomartinvaldez99@gmail.com**
 
