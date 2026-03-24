@@ -60,5 +60,4 @@ Actualmente cursando una **Diplomatura en Testing Profesional con Automatizació
 
 ### 📬 Contacto
 
-Estoy abierto a oportunidades remotas como **Fullstack Developer** o **QA Automation Engineer**.
 Escribime a [francomartinvaldez99@gmail.com](mailto:francomartinvaldez99@gmail.com) o conectemos en [LinkedIn](https://www.linkedin.com/in/franco-martin-valdez/).
